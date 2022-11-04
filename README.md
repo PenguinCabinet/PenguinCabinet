@@ -2,7 +2,8 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PenguinCabinet/posts.svg)](http://qiita.com/PenguinCabinet) ![](https://komarev.com/ghpvc/?username=PenguinCabinet)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PenguinCabinet)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PenguinCabinet)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PenguinCabinet)](https://github.com/ryo-ma/github-profile-trophy)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinCabinet)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Learning Languages and Tools:</h3>
