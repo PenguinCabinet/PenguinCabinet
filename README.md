@@ -1,4 +1,6 @@
-### [🐧ペンギン内閣(PenguinCabinet)🐧](https://penguincabinet.com)
+# [🐧ペンギン内閣(PenguinCabinet)🐧](https://penguincabinet.com)
+
+<br/>
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/PenguinCabinet/posts.svg)](http://qiita.com/PenguinCabinet) [![](https://zenn.badge.nikaera.com/s/penguincabinet/articles?style=flat)](http://zenn.dev/penguincabinet) [![Annict](https://annict.penguincabinet.com/?user_id=PenguinCabinet&type=watched_count)](https://annict.com/@PenguinCabinet)  ![](https://komarev.com/ghpvc/?username=PenguinCabinet)
 
